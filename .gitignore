@@ -223,3 +223,9 @@ project.lock.json
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
+
+# docker book code has it's own github repo
+dockerbook-code-master.zip
+dockerbook-code-master
+
+
